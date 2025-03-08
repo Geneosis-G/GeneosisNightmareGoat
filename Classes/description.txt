@@ -1,0 +1,39 @@
+The child of fire and darkness
+
+Galloping in the lands of dreams, the Nightmare Goat will burn all hope in the mind of the sleepy humans!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Nightmare Goat: Can use various fire-based powers.
+
+[b]COMMANDS[/b]
+- [b][1]:[/b] Burn nearby creatures.
+- [b][Shift] + [SpaceBar]:[/b] Explosive jump.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][LB]:[/b] Burn nearby creatures.
+- [b][LT] + [A]:[/b] Explosive jump.
+
+[b]CHARACTERISTICS[/b]
+- You can't burn and you can fall from any height without going ragdoll.
+- A fire trail appear after you when you move and dissapear after a few seconds.
+- Any creature walking in the fire trail will burn.
+
+[b]EASTER EGGS[/b]
+- [spoiler]If you fall on the ground as a ragdoll with enough speed, you will create a huge explosion.[/spoiler]
+- [spoiler]The explosive jump works as long as you are not moving or going down, which means you can use it in the air ;)[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- You can't attack nor lick.
+- The flames on the feet of the horse sometimes have weird angles.
+- Explosions can make the game lag: yes.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]A lot of mods requests have been made to be able to use fire in a lot of different ways, in the beginning I was not really interested as some mods already exist to spread fire, but after someone asked for a goat using the Lava Horse from the MMO map, I thought that it could be a nice idea to give him all the fire abilities I could think about :)
+So first of all, I had to find a way to use the Lava Horse model on a playable goat... Thanks to the Jousting Goat mutator there was already some animations and physical body usable for the horse, so I could reuse them with the skin of the Lava Horse ^^ The only bad point is that those models don't have any attack or lick animation, which means you can't use them in the game.
+The first ability I added was the flame trail: this is a group of invisible burning object that appear when the goat move, and dissapear after a few seconds. Everything touching those flames will catch on fire the same way they do when touching a grill or another burning creature.
+Then I added the Burning Baaa ability, which is basically using the same burning effect but apply it to every creature in a certain radius around the goat.
+For the explosive jump, I wanted something that will blow up everything near you when you jump but without touching the goat itself. To achieve that I had to make a custom explosion function that will ignore the goat, this way I can give it a custom jump impulsion with always the same power.
+Finally I added the Explosive Landing when the goat touch the ground with enough vertical speed. It works almost the same way as the Meteor of the Wizard Goat: the faster you fall, the bigger the explosion will be.
+[/quote]
